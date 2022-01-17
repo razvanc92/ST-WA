@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
-The traffic data files [here](https://github.com/Davidham3/STSGCN). 
+The traffic data files are vailable [here](https://github.com/Davidham3/STSGCN). 
 
 ## Run the Model 
 
