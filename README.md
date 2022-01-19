@@ -1,7 +1,7 @@
 # Towards Spatio-Temporal Aware Traffic Time Series Forecasting
 
 
-This is a PyTorch implementation of EnhanceNet in the following paper: \
+This is a PyTorch implementation of ST-WA in the following paper: \
 Razvan-Gabriel Cirstea, Tung Kieu, Chenjuan Guo, Shirui Pan, Bin Yang. Towards Spatio-Temporal Aware Traffic Time Series Forecasting.
 
 
